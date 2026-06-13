@@ -12,7 +12,7 @@
 <body>
 
   <!-- TELA INICIAL -->
-  <section id="splash" class="screen active">
+  <section id="splash" class="screen">
     <div class="splash-bg"></div>
     <div class="vignette"></div>
     <div class="grain"></div>
@@ -67,9 +67,13 @@
     </div>
   </section>
 
-  <!-- ÁUDIO -->
+  <!--
+    ÁUDIO: coloque o arquivo MP3 na raiz do repositório com o nome:
+    A Thousand Years.mp3
+    O script abaixo vai carregar automaticamente.
+  -->
   <audio id="bgMusic" loop preload="auto">
-    <source src="https://cdn.pixabay.com/download/audio/2022/10/30/audio_c8c8a73467.mp3" type="audio/mpeg"/>
+    <source src="A Thousand Years.mp3" type="audio/mpeg"/>
   </audio>
 
   <script src="photos.js"></script>
