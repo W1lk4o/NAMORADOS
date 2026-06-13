@@ -7,7 +7,7 @@ const STORY = [
     type:"text", chapter:"Nossa história",
     headline:"Tudo começou\nem <em>2016</em>",
     body:"Meu amor, quero te contar uma história. A nossa história. Cada capítulo foi escrito por Deus — e eu sou grato por cada um deles.",
-    duration:6000
+    duration:9000
   },
   {
     type:"photo", photo:"photo1",
@@ -15,7 +15,7 @@ const STORY = [
     date:"Virada de Ano 2016/2017",
     headline:"O início de\n<em>tudo</em>",
     body:"Foi aqui que tudo começou. Nessa noite, eu olhei pra você e soube que minha vida nunca mais seria a mesma. Deus sabia exatamente o que estava fazendo.",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo2",
@@ -24,7 +24,7 @@ const STORY = [
     headline:"<em>Abençoados</em>\npor Deus",
     body:"Cada momento ao seu lado me fazia ter mais certeza: você era um presente de Deus para a minha vida. E eu nunca quis mais nada além de estar com você.",
     verse:"\"Toda dádiva boa e todo dom perfeito vêm do alto\" — Tiago 1:17",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo3",
@@ -32,7 +32,7 @@ const STORY = [
     date:"16 de setembro de 2018",
     headline:"Chá Revelação\nda <em>Helena</em>",
     body:"Que noite foi essa! Com o Bernardo no colo, descobrimos juntos que uma menina estava a caminho. Meu coração transbordou de alegria e gratidão naquele momento.",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo4",
@@ -41,7 +41,7 @@ const STORY = [
     headline:"Natal aguardando\n<em>você, Helena</em>",
     body:"Nesse Natal, meu amor, o melhor presente ainda estava chegando. Mal conseguíamos esperar. A nossa família estava prestes a crescer mais uma vez.",
     verse:"\"Filhos são herança do Senhor\" — Salmos 127:3",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo5",
@@ -49,7 +49,7 @@ const STORY = [
     date:"12 de fevereiro de 2019",
     headline:"Helena\n<em>chegou</em>",
     body:"Te ver assim, exausta e linda, segurando nossa filha pela primeira vez... foi o momento mais lindo que já vivi. Obrigado, meu amor. Obrigado por tanto.",
-    duration:7500
+    duration:12000
   },
   {
     type:"photo", photo:"photo6",
@@ -58,7 +58,7 @@ const STORY = [
     headline:"Três\n<em>corações</em>",
     body:"Olhando pra você e pra Helena assim, eu entendi o que é graça. Você é a mãe mais incrível que eu já vi. E eu me sinto o homem mais abençoado do mundo.",
     verse:"\"Deus cuida de cada detalhe da nossa história.\"",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo7",
@@ -66,7 +66,7 @@ const STORY = [
     date:"03 de janeiro de 2020",
     headline:"Momentos de\n<em>leveza</em>",
     body:"Esse sorriso seu com o mar ao fundo... guardo essa imagem no coração. Não sabíamos o que viria pela frente, mas aproveitamos cada segundo juntos.",
-    duration:7000
+    duration:11000
   },
   {
     type:"text",
@@ -74,7 +74,7 @@ const STORY = [
     headline:"O mundo\n<em>parou</em>",
     body:"2020 foi difícil, meu amor. Enfrentamos dificuldades, desentendimentos, momentos muito duros. Mas Deus estava ali — nos moldando, nos fortalecendo, nos guardando.",
     verse:"\"O Senhor é o meu refúgio e a minha fortaleza\" — Salmos 91:2",
-    duration:6500
+    duration:10000
   },
   {
     type:"photo", photo:"photo8",
@@ -82,7 +82,7 @@ const STORY = [
     date:"10 de abril de 2021",
     headline:"Juntos em\n<em>tudo</em>",
     body:"Mesmo nos dias mais pesados, eu escolhia você. E você me escolhia. Esse abraço diz mais do que qualquer palavra que eu poderia escrever aqui.",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo9",
@@ -91,7 +91,7 @@ const STORY = [
     headline:"O sorriso que\n<em>resistiu</em>",
     body:"Esse sorriso seu sobreviveu a tudo, meu amor. Nos dias em que eu mais precisei de força, era ele que me levantava. Obrigado por nunca ter desistido.",
     verse:"\"Deus fortaleceu o nosso casamento.\"",
-    duration:7000
+    duration:11000
   },
   {
     type:"text",
@@ -99,7 +99,7 @@ const STORY = [
     headline:"<em>15 de novembro</em>\nde 2020",
     body:"No meio de tudo, olhei nos seus olhos e disse sim. Sim pra vida, sim pros desafios, sim pra você — para sempre. Nenhuma circunstância no mundo mudaria isso.",
     verse:"\"O que Deus uniu, o homem não separe\" — Mateus 19:6",
-    duration:7000
+    duration:11000
   },
   {
     type:"photo", photo:"photo10",
@@ -108,7 +108,7 @@ const STORY = [
     headline:"Oliver\n<em>Ingrácio</em>",
     body:"Te ver com Oliver nos braços confirmou tudo que eu já sabia: Deus nunca parou de cuidar de nós. Você é guerreira, meu amor. Eu tenho muito orgulho de você.",
     verse:"\"Toda a glória a Deus.\"",
-    duration:7500
+    duration:12000
   },
   {
     type:"photo", photo:"photo11",
@@ -116,7 +116,7 @@ const STORY = [
     date:"20 de julho de 2025",
     headline:"A nossa\n<em>família</em>",
     body:"Eu, você, Bernardo, Helena e Oliver. Quando olho pra essa foto, só consigo agradecer. Deus foi generoso demais. Essa família é a maior prova do amor Dele.",
-    duration:8000
+    duration:13000
   },
   {
     type:"photo", photo:"photo12",
@@ -125,12 +125,12 @@ const STORY = [
     headline:"Hoje e\n<em>sempre</em>",
     body:"Entramos em 2026 de mãos dadas, meu amor. É assim que quero envelhecer — ao seu lado, com Deus no centro. Acredito que o melhor ainda está por vir.",
     verse:"\"Porque eu sei os planos que tenho para vocês, planos de paz\" — Jeremias 29:11",
-    duration:8000
+    duration:13000
   },
   {
     type:"letter",
     chapter:"Carta final",
-    duration:16000
+    duration:20000
   },
 ];
 
